@@ -331,10 +331,10 @@ ajv@^8.0.0, ajv@^8.9.0:
     json-schema-traverse "^1.0.0"
     require-from-string "^2.0.2"
 
-altcha@1.0.7:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/altcha/-/altcha-1.0.7.tgz#47d180f0da5ccedd04c2dace67f82859b8cc430f"
-  integrity sha512-rQJpGW00ZJ0vlunQXf5AZqf8iTnoFjb8DmIXz+IUggB0o27Z9VD3jfrISiYtOtVa9AKSTyE2QIuxv9zPxrmW8A==
+altcha@2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/altcha/-/altcha-2.3.0.tgz#4433f0206ccc4207624821d1acad12292cecb016"
+  integrity sha512-vl8I0dQvSQB7/Mx09XuWZ1+LdSP7vEda6OLbg9kUQ2ZO2LT7MzgUyLK7Iips+GAV6c0ntVcS1XWOqhEPpwbDhQ==
   dependencies:
     "@altcha/crypto" "^0.0.1"
   optionalDependencies:
